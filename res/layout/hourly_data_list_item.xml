@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/timeTextView"
+        style="@style/ListItemStyle" />
+
+    <TextView
+        android:id="@+id/condTextView"
+        style="@style/ListItemStyle" />
+
+    <TextView
+        android:id="@+id/precipTextView"
+        style="@style/ListItemStyle" />
+
+    <TextView
+        android:id="@+id/windTextView"
+        style="@style/SmallTextListItemStyle" />
+
+    <TextView
+        android:id="@+id/tempTextView"
+        style="@style/ListItemStyle" />
+
+</LinearLayout>

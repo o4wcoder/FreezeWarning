@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FreezeWarning</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="switch_text">Enable Notification</string>
+    <string name="select_time">Select Notification Time</string>
+    <string name="info_text">The weather will be checked each day at the specified time to see if there is a chance for freezing temperatures within 24 hours.</string>
+    <string name="button_text">Set Notification</string>
+    <string name="toast_text">Notificaiton Settings Saved</string>
+    <string name="temp_scale">Temperature Scale</string>
+    <string name="fahrenheit_text">Fahrenheit</string>
+    <string name="celsius_text">Celsius</string>
+    <string name="time_text">TIME</string>
+    <string name="cond_text">COND</string>
+    <string name="precip_text">PRECIP</string>
+    <string name="wind_text">WIND</string>
+    <string name="temp_text">TEMP</string>
+</resources>
